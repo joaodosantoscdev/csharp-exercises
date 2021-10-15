@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulXNwhu5tMI2+2vkxhWIvtA7Rhjs/0olCJdvki9MpdpJ7mOXMrcWcSfvWgjGR/A654HVCkCGSb5kKH9CH3fchQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João\\source\\repos\\csharp-exercices\\csharp-exercices\\csharp-exercices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João\\.nuget\\packages\\superpower\\3.0.0\\superpower.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.exe
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.deps.json
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.runtimeconfig.json
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.runtimeconfig.dev.json
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.dll
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\ref\csharp-exercices_2.dll
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\bin\Debug\net5.0\csharp-exercices_2.pdb
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.AssemblyInfo.cs
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.dll
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\ref\csharp-exercices_2.dll
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.pdb
+C:\Users\João\source\repos\csharp-exercices_2\csharp-exercices_2\obj\Debug\net5.0\csharp-exercices_2.genruntimeconfig.cache
