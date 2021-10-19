@@ -1,0 +1,16 @@
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.exe
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.deps.json
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.runtimeconfig.json
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.runtimeconfig.dev.json
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.dll
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\ref\csharp-exercises_3.dll
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\bin\Debug\net5.0\csharp-exercises_3.pdb
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.csproj.AssemblyReference.cache
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.AssemblyInfoInputs.cache
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.AssemblyInfo.cs
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.csproj.CoreCompileInputs.cache
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.dll
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\ref\csharp-exercises_3.dll
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.pdb
+E:\Arquivos de Programação\backend\csharp-exercises\csharp-exercises_3\csharp-exercises_3\obj\Debug\net5.0\csharp-exercises_3.genruntimeconfig.cache
